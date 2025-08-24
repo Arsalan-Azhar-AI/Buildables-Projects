@@ -1,0 +1,9 @@
+requests
+huggingface_hub
+transformers
+matplotlib
+nltk
+spacy
+gradio
+langchain-groq
+
