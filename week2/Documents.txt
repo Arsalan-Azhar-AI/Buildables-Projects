@@ -1,0 +1,11 @@
+My Refliction
+
+
+In this assignment, I built my first terminal-based chatbot using the Groq API with the Llama3-8b-8192 model. Since it was my first experience with the chat completions API, I focused on understanding how to structure inputs and responses while also applying proper error handling. This helped me learn how important clean code and formatting are for smooth interaction.
+
+The most interesting part was experimenting with different system prompts. I used three roles: **Professional Assistant**, **Creative Writer**, and **Technical Expert**. I noticed that each role produced very different styles of responses even for the same user query. The Professional Assistant gave formal, business-like replies, the Creative Writer produced imaginative and expressive answers, and the Technical Expert focused on detailed and accurate explanations. From this, I learned that creative, effective, and consistent prompts really matter, and with specific instructions we can get amazing results.
+
+Later, I converted the chatbot into a Streamlit app, which gave me the chance to explore new features and build a cleaner, more attractive interface. Adding functionalities like prompt selection and message history made the project more user-friendly. I also discovered practical prompt engineering techniques, such as using keywords like **import** for code-related answers or **SELECT** for SQL queries. I realized that separating the question clearly helps the LLM understand better.
+
+Overall, I learned that prompt engineering is a **cyclic process**—we can refine prompts step by step, or even use few-shot examples, to guide the model toward more useful and reliable responses.
+
