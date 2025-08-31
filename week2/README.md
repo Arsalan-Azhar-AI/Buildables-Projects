@@ -96,7 +96,7 @@ streamlit run task3.py
 
 ### Task 1 – Basic Chat
 
-![Task 1 Screenshot](week2/assets/task1_screenshort.PNG)
+![Task 1 Screenshot](assets/task1_screenshort.PNG)
 
 ### Task 2 – Different System Prompts
 
