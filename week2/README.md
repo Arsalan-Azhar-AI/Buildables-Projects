@@ -102,15 +102,15 @@ streamlit run task3.py
 
 #### Professional Assistant
 
-![Task 2 Screenshot 1](assets\task2_screenshort1.PNG)
+![Task 2 Screenshot 1](assets/task2_screenshort1.PNG)
 
 #### Creative Writer
 
-![Task 2 Screenshot 2](assets\task2_screenshort2.PNG)
+![Task 2 Screenshot 2](assets/task2_screenshort2.PNG)
 
 #### Technical Expert
 
-![Task 2 Screenshot 3](assets\task2_screenshort3.PNG)
+![Task 2 Screenshot 3](assets/task2_screenshort3.PNG)
 
 ---
 
