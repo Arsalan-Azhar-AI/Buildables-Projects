@@ -1,0 +1,6 @@
+groq
+pydantic
+python-dotenv
+pandas
+rich
+tabulate
